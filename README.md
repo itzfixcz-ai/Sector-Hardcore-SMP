@@ -23,14 +23,17 @@
    - Cofre de Mision : Se consigue completando una mision semanal y al usarlo te dara buenas recompensas.
 
 - La dimension del Nether y End estan completamente deshabilitadas temporalmente.
+- Las granjas de todo tipo estan completamente prohibidas.
 
 • Dia 3:
+- Al dormir recibiras el efecto de Nausea y Ceguera por unos segundos.
+- Los Creepers son mas rapidos y tardan menos tiempo en explotar.
+- Se ha mejorado el Loot de 
 - 
--
--
--
--
--
--
--
-```
+- 
+- 
+- 
+- Ha aparecido un nuevo bioma llamado "Grietas Infernales"
+   - En ese bioma podras encontrar Blazes, Cubos de Magma y Esqueletos Withers.
+   - Al entrar a ese bioma recibiras lentitud II.
+`` `
