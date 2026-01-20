@@ -10,4 +10,27 @@
 - La serie sigue en estado de desarrollo pero iniciara muy pronto asi que atentos a proximos anuncios
 
 ## LISTA DE CAMBIOS
-- Proximamente
+```txt
+• Dia 0:
+
+- El mundo esta en Modo Hardcore pero con la diferencia de que al morir, podras volver a jugar despues de que haya pasado una semana.
+- La forma de conseguir Totems de la Inmortalidad ha sido modificada completamente y ahora es mas dificil de obtener uno.
+- Al morir aparecera en el chat la ubicacion de dimension donde haya muerto el jugador.
+
+- Han aparecido varios items nuevos:
+   - Totem Vacio : Lo sueltan los evocadores con un 10% de probabilidad al morir.
+   - Cruz Resucitadora : Al usarlo podras revivir a un jugador y se encuentran en las Ancient Citys.
+   - Cofre de Mision : Se consigue completando una mision semanal y al usarlo te dara buenas recompensas.
+
+- La dimension del Nether y End estan completamente deshabilitadas temporalmente.
+
+• Dia 3:
+- 
+-
+-
+-
+-
+-
+-
+-
+```
